@@ -28,8 +28,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gulkaif&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
-### 🐍 Contribution Snake
-![Snake animation](https://github.com/gulkaif/gulkaif/blob/output/snake.svg)
 
 ---
 
