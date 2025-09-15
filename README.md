@@ -18,6 +18,8 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 </div>
+### 🐍 Contribution Snake
+![Snake animation](https://github.com/gulkaif/gulkaif/blob/output/snake.svg)
 
 ---
 
