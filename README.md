@@ -18,19 +18,6 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 </div>
----
-
-### 📊 GitHub Stats
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gulkaif&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gulkaif&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ### 📬 Connect with me
 <div align="center">
   
